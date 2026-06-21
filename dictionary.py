@@ -68,7 +68,7 @@
 def tuppel ():
     tup=(1,2,3,4,5)
     num=tup
-    user=int (input("Enter a number:"))
+    user=str(input("Enter a number:"))
     n=0
     for n, item in enumerate(tup):
         if item == user:
@@ -76,7 +76,7 @@ def tuppel ():
             return 
     print("Number not Found ")
 
-    tuppel()
+tuppel()
 
 
 

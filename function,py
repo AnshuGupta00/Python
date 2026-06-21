@@ -1,3 +1,9 @@
-def add(a,b):
-    return a+b
-print(add(50,60))
+# def add(a,b,c):
+#     return a+b+c
+# print(add(50,60,70))
+
+
+# Write a programm to create functtion average of the list enterd by the user.
+
+def average():
+ 3
