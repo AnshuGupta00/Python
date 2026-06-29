@@ -6,3 +6,5 @@ with open("C:\\Users\\gupta\\Desktop\\sample.txt.txt", "r") as f:
 with open("C:\\Users\\gupta\\Desktop\\sample.txt.txt", "w") as f:
     content = f.write("hello world")
     print(f"characters written: {content}")
+
+    
